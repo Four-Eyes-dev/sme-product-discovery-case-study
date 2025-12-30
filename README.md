@@ -130,3 +130,147 @@ MVP scoping & prioritization
 
 This case study demonstrates how data-supported user research can drive meaningful product decisions. By focusing on real SME challenges, the product vision is grounded in validated user needs rather than assumptions.
 
+
+
+
+# SME Audit & Interview Readiness Project
+
+## Overview
+Small and Medium Enterprises (SMEs) form the backbone of many economies, yet most digital tools built for them fail due to **poor problem discovery** rather than poor execution.
+
+This project focused on preparing a **clean, interview-ready SME dataset** to support **product discovery, problem validation, and solution design** — not analytics reporting.
+
+The outcome enables structured SME interviews to inform the design of a scalable SME audit and business insights product.
+
+---
+
+## Product Context
+As a Product Manager, my objective was **not to analyze SMEs**, but to **understand them**.
+
+Before building:
+- An SME audit platform
+- A diagnostics or compliance product
+- A business health or insights tool
+
+We first needed to ensure:
+- The right SMEs were being engaged
+- Contacts were reliable
+- Categories were clear
+- Interviews could be conducted efficiently
+
+This dataset serves as the **foundation for customer discovery**.
+
+---
+
+## Problem Statement
+Many SME-focused products fail because:
+- Interviews are conducted on poor-quality data
+- Business categories are inconsistent
+- Contacts are duplicated or invalid
+- Outreach is inefficient and biased
+
+**Without clean input data, product discovery produces misleading insights.**
+
+---
+
+## Product Goal
+Prepare a **high-integrity SME contact dataset** that enables:
+- Accurate SME segmentation
+- Targeted interview outreach
+- Reliable qualitative insights
+- Faster iteration during product discovery
+
+---
+
+## Scope of This Project
+This project covers **pre-product discovery groundwork**, specifically:
+
+- Cleaning and standardizing SME business records
+- Resolving duplicate and inconsistent contact information
+- Normalizing business categories
+- Creating a single primary contact per SME
+- Producing an interview-ready dataset
+
+ This project does NOT:
+- Build a predictive model
+- Perform market sizing
+- Draw business conclusions
+
+---
+
+## Key Product Decisions
+| Decision | Rationale |
+|--------|----------|
+| Normalize business categories | Enables SME segmentation for interviews |
+| Consolidate contacts | Ensures single point of contact per SME |
+| Remove duplicates | Prevents biased interview results |
+| Preserve location data | Supports regional analysis in later phases |
+
+---
+
+## Deliverables
+- **Cleaned SME interview dataset**
+- **Data preparation notebook**
+- **Clear audit trail of data decisions**
+
+These deliverables support:
+- User interviews
+- JTBD discovery
+- Problem validation
+- MVP definition
+
+---
+
+## Folder Structure
+
+SME-Audit-Project/
+│
+├── data/
+│ └── sme_audit_cleaned_dataset.xlsx
+│
+├── notebooks/
+│ └── data_cleaning.ipynb
+│
+└── README.md
+
+
+---
+
+## How This Fits Into the Product Lifecycle
+This project sits in the **Discovery phase**:
+
+1. ✅ Data preparation for outreach
+2. 🔜 SME interviews
+3. 🔜 Problem synthesis
+4. 🔜 Opportunity definition
+5. 🔜 Solution ideation
+6. 🔜 MVP design
+
+---
+
+## Next Steps (Planned)
+- Conduct SME interviews using this dataset
+- Identify recurring operational pain points
+- Define core problems worth solving
+- Translate insights into product requirements
+- Design and validate an MVP
+
+---
+
+## Role & Responsibilities
+**Role:** Product Manager  
+**Focus:** Product discovery enablement  
+**Skills demonstrated:**
+- Problem framing
+- Data-informed decision making
+- User research readiness
+- Cross-functional thinking
+- Practical product foundations
+
+---
+
+## Why This Matters
+Good products start with **good questions**.  
+Good questions require **good data**.
+
+This project ensures that when interviews begin, they produce insights worth building on.
